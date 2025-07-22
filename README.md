@@ -37,27 +37,7 @@ It allows users to log in with their name, choose a quiz topic (Computer Network
 2. Connect a device or launch an emulator.
 3. Click Run ▶️ to build and launch the app.
 
-## 📂 Project Structure
 
-
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/internship_week1/
-│ │ │ │ ├── MainActivity.java
-│ │ │ │ ├── WelcomeScreen.kt
-│ │ │ │ ├── TopicSelectionScreen.kt
-│ │ │ │ ├── QuizScreen.kt
-│ │ │ │ ├── ScoreScreen.kt
-│ │ │ │ └── data/
-│ │ │ │ ├── Question.kt
-│ │ │ │ └── QuestionData.kt
-│ │ │ └── res/
-│ │ │ └── values/
-│ ├── build.gradle
-├── build.gradle
-├── settings.gradle.kts
-└── .gitignore
 
 
    
